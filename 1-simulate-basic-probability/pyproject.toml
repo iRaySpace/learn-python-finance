@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "1-simulate-basic-probability"
+version = "0.1.0"
+description = ""
+authors = ["irayspace <irayspacii@gmail.com>"]
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "1.25"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
